@@ -1,0 +1,9 @@
+{
+  "name": "herb-lsp",
+  "description": "herb-language-server support for .erb and .herb files",
+  "version": "1.0.0",
+  "author": {
+    "name": "ether-moon"
+  },
+  "lspServers": "./.lsp.json"
+}

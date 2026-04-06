@@ -3,14 +3,14 @@
     "allow": []
   },
   "extraKnownMarketplaces": {
-    "{{MARKETPLACE_NAME}}": {
+    "herb-lsp-plugin": {
       "source": {
         "source": "github",
-        "repo": "{{GITHUB_OWNER}}/{{MARKETPLACE_NAME}}"
+        "repo": "ether-moon/herb-lsp-plugin"
       }
     }
   },
   "enabledPlugins": {
-    "{{PLUGIN_NAME}}@{{MARKETPLACE_NAME}}": true
+    "herb-lsp-plugin@herb-lsp-plugin": true
   }
 }

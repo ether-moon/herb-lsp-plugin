@@ -1,0 +1,13 @@
+{
+  "name": "herb-lsp-plugin",
+  "owner": {
+    "name": "ether-moon"
+  },
+  "plugins": [
+    {
+      "name": "herb-lsp-plugin",
+      "source": "./plugins/herb-lsp-plugin",
+      "description": "Plugin to support herb-lsp in Claude Code."
+    }
+  ]
+}

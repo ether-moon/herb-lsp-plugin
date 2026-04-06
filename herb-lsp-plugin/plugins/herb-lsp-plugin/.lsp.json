@@ -1,0 +1,11 @@
+{
+  "herb": {
+    "command": "herb-language-server",
+    "args": ["--stdio"],
+    "extensionToLanguage": {
+      ".erb": "erb",
+      ".herb": "herb",
+      ".html.erb": "erb"
+    }
+  }
+}
